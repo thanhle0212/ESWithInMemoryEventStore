@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ho/GLh8An6Ni+RrZagRNeHk3wCBdfZ+AIwXl3cAxWL2GNjsQCgiW7slAELZV+Xc8qFaGcZSQLoL7xMIgvvx+xA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\ESWithInMemoryEventStore\\ESWithInMemoryEventStore\\EventSourcingDemo1\\EventSourcingDemo1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thanhlet\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\thanhlet\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\thanhlet\\.nuget\\packages\\sqlstreamstore\\1.2.0\\sqlstreamstore.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
